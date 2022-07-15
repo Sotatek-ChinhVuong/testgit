@@ -1,5 +1,5 @@
 const main = () => {
     console.log("Hello world!");
 }
-console.log("Alo");
+console.log("Alo b-6");
 main()
